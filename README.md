@@ -15,7 +15,9 @@ agreeing to the terms contained therein. If you have not received and read
 the license file, or do not agree with its conditions, please cease using
 this software immediately and remove any copies you may have in your
 possession.
-
+** 
+Until Phpvirtualbox is updated , please use [Virtualbox 6.1.36](https://www.virtualbox.org/wiki/Download_Old_Builds_6_1) and the [Virtualbox 6.1 Support fork](https://github.com/trasherdk/phpvirtualbox/releases/tag/v6.1.x-1)
+**
 # Installation from Zip file
 
 1) Download zip file from GitHub project site: https://github.com/phpvirtualbox/phpvirtualbox/archive/master.zip
